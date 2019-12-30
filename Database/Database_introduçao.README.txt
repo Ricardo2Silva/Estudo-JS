@@ -1,0 +1,6 @@
+Aviso :
+
+Este é um estudo pessoal que contém a respeito sobre Banco de Dados,toda informação aqui esta simplificada para o meu entendimento,sou iniciante em tudo sobre programaçao e espero absorver o maximo possivel para entrar na área e exercitar tambem o git.
+
+
+Em breve atualizarei conforme a evolução sobre o assunto.
